@@ -53,24 +53,24 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">[Project 1 Name]</h3>
+      <h3 align="center">ParrotPalace</h3>
       <p align="center">
-        <a href="[PROJECT_1_LINK]">
+        <a href="https://github.com/thrandishow/parrotpalace">
           <img src="https://img.shields.io/badge/Code-FastAPI-005571?style=for-the-badge" alt="Code"/>
         </a>
-        <a href="[PROJECT_1_DEMO_LINK]">
+        <a href="https://github.com/thrandishow/parrotpalace">
           <img src="https://img.shields.io/badge/Live-Demo-4285F4?style=for-the-badge" alt="Demo"/>
         </a>
       </p>
       <p align="center">
-        <b>Description:</b> Brief description of your project<br>
+        <b>Description:</b> Backend for online shop<br>
         <b>Tech:</b> FastAPI, PostgreSQL, Docker, GitHub Actions
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">[Project 2 Name]</h3>
+      <h3 align="center">TodoTasks</h3>
       <p align="center">
-        <a href="https://github.com/thrandishow/parrotpalace">
+        <a href="https://github.com/thrandishow/TodoTasks">
           <img src="https://img.shields.io/badge/Code-Django-092E20?style=for-the-badge" alt="Code"/>
         </a>
         <a href="https://github.com/thrandishow/TodoTasks">
@@ -78,8 +78,8 @@
         </a>
       </p>
       <p align="center">
-        <b>Description:</b> Brief description of your project<br>
-        <b>Tech:</b> Django, Postman, GitLab CI, Linux
+        <b>Description:</b>Simple todo list with authentication<br>
+        <b>Tech:</b> FastAPI, Postgresql, Docker
       </p>
     </td>
   </tr>
