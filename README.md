@@ -38,6 +38,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
 
+---
+
 ### 🌐 Connect With Me
 <div align="center">
   <a href="mailto:thrandishow200@yandex.ru">
