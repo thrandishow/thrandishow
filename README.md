@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
-  <h3>Backend Python Developer | API Specialist | DevOps Enthusiast</h3>
+  <h1>Hi there, I'm Klimentiy 👋</h1>
+  <h3>Backend Python Developer | API Specialist</h3>
 </div>
 
 ---
@@ -53,21 +53,14 @@
   <a href="[YOUR_LINKEDIN_URL]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[YOUR_TWITTER_URL]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:thrandishow200@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="[YOUR_PORTFOLIO_URL]">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
 ---
 
 ### 🏆 Featured Projects
-<!-- Add your best projects here -->
 <table>
   <tr>
     <td width="50%">
@@ -88,10 +81,10 @@
     <td width="50%">
       <h3 align="center">[Project 2 Name]</h3>
       <p align="center">
-        <a href="[PROJECT_2_LINK]">
+        <a href="https://github.com/thrandishow/parrotpalace">
           <img src="https://img.shields.io/badge/Code-Django-092E20?style=for-the-badge" alt="Code"/>
         </a>
-        <a href="[PROJECT_2_DEMO_LINK]">
+        <a href="https://github.com/thrandishow/TodoTasks">
           <img src="https://img.shields.io/badge/Live-Demo-4285F4?style=for-the-badge" alt="Demo"/>
         </a>
       </p>
